@@ -1,6 +1,5 @@
 
 # EX 1B Power of 2
-
 ## AIM:
 To write a Java program to for given constraints.Given an integer n, return true if it is a power of two. Otherwise, return false.
 An integer n is a power of two, if there exists an integer x such that n == 2x.
@@ -27,6 +26,8 @@ If the result is 0, then n is a power of two; otherwise, it is not.
 ```
 /*
 Program to implement Reverse a String
+Developed by: Ragavan E
+Register Number:  212223040160
 */
 
 import java.util.Scanner;
@@ -53,8 +54,7 @@ public class Solution {
 ```
 
 ## Output:
-<img width="1261" height="217" alt="image" src="https://github.com/user-attachments/assets/0a1c07ae-f6cf-42f2-94d9-cc1e40a9e1d8" />
-
+<img width="403" height="198" alt="image" src="https://github.com/user-attachments/assets/5ad4dd66-64a4-4aff-b00d-a9d51f790f20" />
 
 
 
